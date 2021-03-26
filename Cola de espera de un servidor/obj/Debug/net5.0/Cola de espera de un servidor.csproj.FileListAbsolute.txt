@@ -1,0 +1,16 @@
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.exe
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.deps.json
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.runtimeconfig.json
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.runtimeconfig.dev.json
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.dll
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\ref\Cola de espera de un servidor.dll
+C:\Users\salve\Desktop\Cola de espera de un servidor\bin\Debug\net5.0\Cola de espera de un servidor.pdb
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.csprojAssemblyReference.cache
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.AssemblyInfoInputs.cache
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.AssemblyInfo.cs
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.csproj.CoreCompileInputs.cache
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.dll
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\ref\Cola de espera de un servidor.dll
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.pdb
+C:\Users\salve\Desktop\Cola de espera de un servidor\obj\Debug\net5.0\Cola de espera de un servidor.genruntimeconfig.cache
